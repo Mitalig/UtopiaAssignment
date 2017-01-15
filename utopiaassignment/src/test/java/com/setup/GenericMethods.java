@@ -25,8 +25,8 @@ public class GenericMethods {
 			prop = new Properties();
 			FileReader fr;
 
-			fr = new FileReader(
-					"/Users/ashwin/work/learning/UtopiaAssignment/utopiaassignment/resources/Constants.properties");
+			fr = new FileReader(System.getProperty
+					("user.dir")+"/"+"resources/Constants.properties");
 			prop.load(fr);
 			String constantValue = prop.getProperty(Constant);
 
@@ -74,8 +74,7 @@ public class GenericMethods {
 
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(sLocators)));
 
-		// wait.until (ExpectedConditions.presenceOfElementLocated (By.xpath
-		// (sLocators)));
+		
 
 	}
 
@@ -105,11 +104,11 @@ public class GenericMethods {
 	public static void setUpLog4j() throws Exception {
 
 		Properties po1 = new Properties();
-		FileInputStream configStream1 = new FileInputStream(
-				"/Users/ashwin/work/learning/UtopiaAssignment/utopiaassignment/resources/Log4jConfiguration/log4j.properties");
+		FileInputStream configStream1 = new FileInputStream(System.getProperty
+				("user.dir")+"/"+"resources/Log4jConfiguration/log4j.properties");
 		po1.load(configStream1);
-		PropertyConfigurator.configure(
-				"/Users/ashwin/work/learning/UtopiaAssignment/utopiaassignment/resources/Log4jConfiguration/log4j.properties");
+		PropertyConfigurator.configure(System.getProperty
+				("user.dir")+"/"+"resources/Log4jConfiguration/log4j.properties");
 	}
 
 }

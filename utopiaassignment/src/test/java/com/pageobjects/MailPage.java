@@ -47,7 +47,6 @@ public class MailPage {
 		Log.info("Checking whether email is send");
 		assertThat(GenericMethods.getElementText(driver, ConstantLocators.emailPresent), is("Hello Utopia"));
 
-		//GenericMethods.click(driver, ConstantLocators.deleteEmail);
 		return this;
 
 	}

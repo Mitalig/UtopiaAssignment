@@ -20,6 +20,5 @@ public class ConstantLocators {
 	public static final String deleteEmail = "(.//div[@act='10'])[3]/div";
 	public static final String inbox =".//a[@title='Inbox']";
 
-	public static final String userNameOnMenu = "//li[@class='log-dropdown']//a[@href='javascript:void(0);']";
 
 }

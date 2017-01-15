@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="TestNG Suite" duration-ms="67140" started-at="2017-01-15T16:06:00Z" finished-at="2017-01-15T16:07:07Z">
+  <suite name="TestNG Suite" duration-ms="106053" started-at="2017-01-15T18:20:26Z" finished-at="2017-01-15T18:22:12Z">
     <groups>
     </groups>
-    <test name="TestNG Test1" duration-ms="33202" started-at="2017-01-15T16:06:00Z" finished-at="2017-01-15T16:06:33Z">
+    <test name="TestNG Test1" duration-ms="54679" started-at="2017-01-15T18:20:26Z" finished-at="2017-01-15T18:21:20Z">
       <class name="com.testrunner.MailTest">
-        <test-method status="PASS" signature="beforeSetup(java.lang.String)[pri:0, instance:com.testrunner.MailTest@47c62251]" name="beforeSetup" is-config="true" duration-ms="3908" started-at="2017-01-15T21:36:00Z" finished-at="2017-01-15T21:36:04Z">
+        <test-method status="PASS" signature="beforeSetup(java.lang.String)[pri:0, instance:com.testrunner.MailTest@47c62251]" name="beforeSetup" is-config="true" duration-ms="4883" started-at="2017-01-15T23:50:26Z" finished-at="2017-01-15T23:50:31Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSetup -->
-        <test-method status="PASS" signature="signOutTest()[pri:1, instance:com.testrunner.MailTest@47c62251]" name="signOutTest" duration-ms="13607" started-at="2017-01-15T21:36:04Z" finished-at="2017-01-15T21:36:17Z">
+        <test-method status="PASS" signature="signOutTest()[pri:1, instance:com.testrunner.MailTest@47c62251]" name="signOutTest" duration-ms="32491" started-at="2017-01-15T23:50:31Z" finished-at="2017-01-15T23:51:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signOutTest -->
-        <test-method status="PASS" signature="SendEmailTest()[pri:2, instance:com.testrunner.MailTest@47c62251]" name="SendEmailTest" duration-ms="15348" started-at="2017-01-15T21:36:18Z" finished-at="2017-01-15T21:36:33Z">
+        <test-method status="PASS" signature="SendEmailTest()[pri:2, instance:com.testrunner.MailTest@47c62251]" name="SendEmailTest" duration-ms="17004" started-at="2017-01-15T23:51:03Z" finished-at="2017-01-15T23:51:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SendEmailTest -->
-        <test-method status="PASS" signature="shutDown(java.lang.String)[pri:0, instance:com.testrunner.MailTest@47c62251]" name="shutDown" is-config="true" duration-ms="298" started-at="2017-01-15T21:36:33Z" finished-at="2017-01-15T21:36:33Z">
+        <test-method status="PASS" signature="shutDown(java.lang.String)[pri:0, instance:com.testrunner.MailTest@47c62251]" name="shutDown" is-config="true" duration-ms="271" started-at="2017-01-15T23:51:20Z" finished-at="2017-01-15T23:51:20Z">
           <params>
             <param index="0">
               <value>
@@ -39,9 +39,9 @@
         </test-method> <!-- shutDown -->
       </class> <!-- com.testrunner.MailTest -->
     </test> <!-- TestNG Test1 -->
-    <test name="TestNG Test2" duration-ms="33909" started-at="2017-01-15T16:06:33Z" finished-at="2017-01-15T16:07:07Z">
+    <test name="TestNG Test2" duration-ms="51070" started-at="2017-01-15T18:21:21Z" finished-at="2017-01-15T18:22:12Z">
       <class name="com.testrunner.MailTest">
-        <test-method status="PASS" signature="beforeSetup(java.lang.String)[pri:0, instance:com.testrunner.MailTest@1a968a59]" name="beforeSetup" is-config="true" duration-ms="1855" started-at="2017-01-15T21:36:33Z" finished-at="2017-01-15T21:36:35Z">
+        <test-method status="PASS" signature="beforeSetup(java.lang.String)[pri:0, instance:com.testrunner.MailTest@1a968a59]" name="beforeSetup" is-config="true" duration-ms="2203" started-at="2017-01-15T23:51:21Z" finished-at="2017-01-15T23:51:23Z">
           <params>
             <param index="0">
               <value>
@@ -52,15 +52,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSetup -->
-        <test-method status="PASS" signature="signOutTest()[pri:1, instance:com.testrunner.MailTest@1a968a59]" name="signOutTest" duration-ms="12314" started-at="2017-01-15T21:36:35Z" finished-at="2017-01-15T21:36:47Z">
+        <test-method status="PASS" signature="signOutTest()[pri:1, instance:com.testrunner.MailTest@1a968a59]" name="signOutTest" duration-ms="18429" started-at="2017-01-15T23:51:23Z" finished-at="2017-01-15T23:51:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signOutTest -->
-        <test-method status="PASS" signature="SendEmailTest()[pri:2, instance:com.testrunner.MailTest@1a968a59]" name="SendEmailTest" duration-ms="19525" started-at="2017-01-15T21:36:47Z" finished-at="2017-01-15T21:37:07Z">
+        <test-method status="PASS" signature="SendEmailTest()[pri:2, instance:com.testrunner.MailTest@1a968a59]" name="SendEmailTest" duration-ms="30177" started-at="2017-01-15T23:51:41Z" finished-at="2017-01-15T23:52:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SendEmailTest -->
-        <test-method status="PASS" signature="shutDown(java.lang.String)[pri:0, instance:com.testrunner.MailTest@1a968a59]" name="shutDown" is-config="true" duration-ms="206" started-at="2017-01-15T21:37:07Z" finished-at="2017-01-15T21:37:07Z">
+        <test-method status="PASS" signature="shutDown(java.lang.String)[pri:0, instance:com.testrunner.MailTest@1a968a59]" name="shutDown" is-config="true" duration-ms="236" started-at="2017-01-15T23:52:12Z" finished-at="2017-01-15T23:52:12Z">
           <params>
             <param index="0">
               <value>
