@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="TestNG Suite"  >
+
+<test name="TestNG Test1">
+<parameter name="Browser" value="Firefox"/>   
+ 
+<classes>
+<class name ="com.testrunner.MailTest"/>
+</classes>
+</test>  
+
+<test name="TestNG Test2">
+<parameter name="Browser" value="Chrome"/>   
+ 
+<classes>
+<class name ="com.testrunner.MailTest"/>
+</classes>
+</test>  
+
+</suite>

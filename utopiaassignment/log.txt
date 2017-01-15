@@ -1,0 +1,306 @@
+2017-01-15 20:41:35,397 INFO  [TestNG] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 20:41:35,397 INFO  [TestNG] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 20:41:39,398 INFO  [TestNG] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 20:41:39,401 INFO  [TestNG] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 20:41:42,518 INFO  [TestNG] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 20:41:42,982 INFO  [TestNG] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 20:41:43,427 INFO  [TestNG] setup.Log (Log.java:29) - Entering Password
+2017-01-15 20:41:44,204 INFO  [TestNG] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 20:41:44,467 INFO  [TestNG] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 20:41:44,468 INFO  [TestNG] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 20:41:47,682 INFO  [TestNG] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 20:41:48,721 INFO  [TestNG] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 20:41:49,130 INFO  [TestNG] setup.Log (Log.java:29) - Entering Password
+2017-01-15 20:41:50,734 INFO  [TestNG] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 20:41:51,057 INFO  [TestNG] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 20:41:52,497 INFO  [TestNG] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 20:41:57,832 INFO  [TestNG] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 20:41:58,632 INFO  [TestNG] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 20:41:58,632 INFO  [TestNG] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 20:42:04,912 INFO  [TestNG] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 20:42:06,612 INFO  [TestNG] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 20:42:06,612 INFO  [TestNG] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 20:42:37,684 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 20:42:43,290 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 20:42:43,293 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 20:42:45,451 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 20:42:45,978 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 20:42:46,216 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 20:42:47,542 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 20:42:48,003 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 20:43:01,483 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 20:43:02,549 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 20:43:02,551 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 20:43:02,760 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 20:43:11,031 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 20:43:11,777 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 20:43:17,407 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 20:43:17,836 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 20:43:19,295 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 20:43:21,389 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 20:43:24,953 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 20:43:24,966 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 20:43:28,844 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 20:43:29,082 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 20:43:29,209 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 20:43:29,937 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 20:43:30,531 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 20:43:38,494 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 20:43:38,958 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 20:43:38,958 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 20:47:24,461 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 20:47:30,488 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 20:47:30,493 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 20:47:34,615 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 20:47:35,416 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 20:47:35,799 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 20:47:38,199 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 20:47:39,623 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 20:47:49,474 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 20:47:50,564 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 20:47:50,564 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 20:48:08,414 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 20:48:10,765 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 20:48:12,308 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 20:48:18,101 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 20:48:18,417 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 20:48:19,893 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 20:50:18,830 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 20:50:23,079 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 20:50:23,081 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 20:50:25,632 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 20:50:26,321 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 20:50:26,521 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 20:50:27,224 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 20:50:27,431 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 20:50:35,462 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 20:50:36,435 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 20:50:36,437 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 20:50:36,978 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 20:50:40,871 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 20:50:41,884 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 20:50:47,583 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 20:50:48,090 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 20:50:49,579 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 20:53:34,551 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 20:53:38,166 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 20:53:38,167 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 20:53:40,584 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 20:53:41,007 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 20:53:41,253 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 20:53:41,998 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 20:53:42,175 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 20:53:50,539 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 20:53:51,222 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 20:53:51,223 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 20:53:51,470 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 20:53:56,810 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 20:53:57,921 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 20:54:03,387 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 20:54:03,712 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 20:54:05,309 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 20:58:28,226 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 20:58:31,938 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 20:58:31,940 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 20:58:34,234 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 20:58:34,661 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 20:58:34,830 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 20:58:35,703 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 20:58:44,995 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 20:58:45,269 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 20:58:45,671 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 20:58:45,671 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:01:10,720 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:01:17,427 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:01:17,432 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:01:19,695 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:01:20,277 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:01:20,525 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:01:21,279 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:01:21,579 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:01:29,753 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:01:30,409 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:01:30,410 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:01:30,857 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:01:38,184 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:01:39,311 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 21:01:44,970 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 21:01:45,282 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 21:01:46,717 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 21:02:26,499 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:02:39,091 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:02:44,279 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:02:44,282 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:02:46,282 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:02:46,665 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:02:46,934 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:02:47,721 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:02:47,950 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:02:56,114 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:02:56,795 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:02:56,797 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:02:57,235 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:03:02,419 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:03:03,460 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 21:03:09,122 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 21:03:09,568 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 21:03:11,233 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 21:11:19,935 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:11:26,376 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:11:26,391 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:11:28,683 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:11:29,535 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:11:29,790 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:11:30,758 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:11:30,971 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:11:39,680 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:11:40,422 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:11:40,422 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:11:40,763 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:11:45,384 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:11:46,462 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 21:11:52,099 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 21:11:53,659 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 21:11:56,002 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 21:15:23,556 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:15:32,667 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:15:38,013 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:15:38,017 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:15:40,311 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:15:40,808 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:15:41,081 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:15:41,855 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:15:42,141 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:15:50,944 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:15:51,460 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:15:51,463 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:15:51,654 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:15:56,839 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:15:57,734 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 21:16:03,232 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 21:16:03,518 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 21:16:04,980 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 21:20:10,607 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:20:15,982 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:20:15,986 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:20:18,333 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:20:19,174 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:20:19,408 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:20:20,971 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:20:21,180 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:20:33,660 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:20:35,937 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:20:35,954 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:20:36,311 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:20:41,860 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:20:43,077 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 21:20:48,717 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 21:20:49,226 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 21:20:50,975 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 21:20:53,579 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:20:58,036 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:20:58,039 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:20:59,985 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:21:00,660 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:21:00,870 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:21:01,532 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:21:01,659 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:21:10,508 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:21:10,885 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:21:10,885 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:21:11,057 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:21:21,522 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:26:11,383 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:26:19,687 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:26:19,690 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:26:22,232 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:26:23,131 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:26:23,401 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:26:25,272 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:26:25,463 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:26:33,930 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:26:34,813 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:26:34,814 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:26:35,124 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:26:39,970 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:26:41,301 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 21:26:47,076 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 21:26:47,569 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 21:26:49,525 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 21:26:51,719 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:26:56,666 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:26:56,675 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:26:59,273 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:26:59,641 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:26:59,933 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:27:00,665 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:27:06,924 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:27:09,695 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:27:10,167 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:27:10,168 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:27:10,396 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:27:20,524 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:30:40,037 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:30:44,499 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:30:44,516 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:30:47,079 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:30:47,453 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:30:47,728 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:30:48,480 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:30:49,106 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:30:57,548 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:30:58,041 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:30:58,041 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:30:58,213 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:31:07,186 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:34:58,220 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:35:00,940 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:35:00,942 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:35:02,709 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:35:02,942 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:35:03,188 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:35:03,875 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:35:04,496 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:35:12,945 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:35:13,430 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:35:13,431 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:35:13,597 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:35:24,106 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:35:24,815 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 21:35:30,351 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 21:35:30,566 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 21:35:32,028 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 21:36:00,573 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:36:04,393 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:36:04,396 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:36:06,665 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:36:07,330 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:36:07,578 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:36:08,326 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:36:08,642 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:36:16,904 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:36:18,005 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:36:18,006 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:36:18,343 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:36:23,251 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:36:24,299 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 21:36:29,813 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 21:36:30,110 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 21:36:31,587 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-01-15 21:36:33,698 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-01-15 21:36:35,550 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-01-15 21:36:35,551 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://gmail.com
+2017-01-15 21:36:37,323 INFO  [main] setup.Log (Log.java:29) - Entering Email Id
+2017-01-15 21:36:37,529 INFO  [main] setup.Log (Log.java:29) - Clicking on Next button
+2017-01-15 21:36:37,739 INFO  [main] setup.Log (Log.java:29) - Entering Password
+2017-01-15 21:36:38,429 INFO  [main] setup.Log (Log.java:29) - Clicking on SignIn button
+2017-01-15 21:36:39,051 INFO  [main] setup.Log (Log.java:29) - Clicking on Circular button
+2017-01-15 21:36:47,130 INFO  [main] setup.Log (Log.java:29) - Checking whether Sign out button is present
+2017-01-15 21:36:47,865 INFO  [main] setup.Log (Log.java:29) - Starting up the Send Email Test
+2017-01-15 21:36:47,866 INFO  [main] setup.Log (Log.java:29) - Checking whether Compose button is present
+2017-01-15 21:36:48,002 INFO  [main] setup.Log (Log.java:29) - Clicking on Compose button
+2017-01-15 21:36:57,776 INFO  [main] setup.Log (Log.java:29) - Entering Email id
+2017-01-15 21:36:58,832 INFO  [main] setup.Log (Log.java:29) - Entering Subject
+2017-01-15 21:37:04,546 INFO  [main] setup.Log (Log.java:29) - Entering Message
+2017-01-15 21:37:04,800 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
+2017-01-15 21:37:06,246 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send

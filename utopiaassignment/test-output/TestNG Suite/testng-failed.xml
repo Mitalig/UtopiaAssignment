@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNG Suite]">
+  <parameter name="Browser" value="Chrome"/>
+  <test name="TestNG Test1">
+    <parameter name="Browser" value="Firefox"/>
+    <classes>
+      <class name="com.testrunner.MailTest"/>
+    </classes>
+  </test> <!-- TestNG Test1 -->
+  <test name="TestNG Test2">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="com.testrunner.MailTest"/>
+    </classes>
+  </test> <!-- TestNG Test2 -->
+</suite> <!-- Failed suite [TestNG Suite] -->
