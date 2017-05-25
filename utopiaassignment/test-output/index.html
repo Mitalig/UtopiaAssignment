@@ -54,7 +54,7 @@
                 </li>
                 <li>
                   <a href="#" class="navigator-link " panel-name="testlist-TestNG_Suite">
-                    <span class="test-stats">2 tests</span>
+                    <span class="test-stats">1 test</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods,   4 passed</span>
+                    <span class="method-stats">2 methods,   2 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -102,22 +102,12 @@
                     <div class="method-list-content passed suite-TestNG_Suite">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-TestNG_Suite" title="com.testrunner.MailTest" hash-for-method="SendEmailTest">SendEmailTest</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-TestNG_Suite" title="com.testrunner.MailTest" hash-for-method="homePageTest">homePageTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-TestNG_Suite" title="com.testrunner.MailTest" hash-for-method="SendEmailTest">SendEmailTest</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-TestNG_Suite" title="com.testrunner.MailTest" hash-for-method="signOutTest">signOutTest</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-TestNG_Suite" title="com.testrunner.MailTest" hash-for-method="signOutTest">signOutTest</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-TestNG_Suite" title="com.testrunner.MailTest" hash-for-method="searchPageTest">searchPageTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-TestNG_Suite -->
@@ -140,30 +130,16 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="SendEmailTest">
-                  </a> <!-- SendEmailTest -->
-                  <span class="method-name">SendEmailTest</span>
+                  <a name="homePageTest">
+                  </a> <!-- homePageTest -->
+                  <span class="method-name">homePageTest</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="SendEmailTest">
-                  </a> <!-- SendEmailTest -->
-                  <span class="method-name">SendEmailTest</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="signOutTest">
-                  </a> <!-- signOutTest -->
-                  <span class="method-name">signOutTest</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="signOutTest">
-                  </a> <!-- signOutTest -->
-                  <span class="method-name">signOutTest</span>
+                  <a name="searchPageTest">
+                  </a> <!-- searchPageTest -->
+                  <span class="method-name">searchPageTest</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -184,12 +160,6 @@
       &lt;class name=&quot;com.testrunner.MailTest&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- TestNG Test1 --&gt;
-  &lt;test name=&quot;TestNG Test2&quot;&gt;
-    &lt;parameter name=&quot;Browser&quot; value=&quot;Chrome&quot;/&gt;
-    &lt;classes&gt;
-      &lt;class name=&quot;com.testrunner.MailTest&quot;/&gt;
-    &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- TestNG Test2 --&gt;
 &lt;/suite&gt; &lt;!-- TestNG Suite --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -202,9 +172,6 @@
             <ul>
               <li>
                 <span class="test-name">TestNG Test1 (1 class)</span>
-              </li>
-              <li>
-                <span class="test-name">TestNG Test2 (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -230,23 +197,15 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'signOutTest')
+data.setCell(0, 1, 'homePageTest')
 data.setCell(0, 2, 'com.testrunner.MailTest')
-data.setCell(0, 3, 32491);
+data.setCell(0, 3, 37909);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'SendEmailTest')
+data.setCell(1, 1, 'searchPageTest')
 data.setCell(1, 2, 'com.testrunner.MailTest')
-data.setCell(1, 3, 30177);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'signOutTest')
-data.setCell(2, 2, 'com.testrunner.MailTest')
-data.setCell(2, 3, 18429);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'SendEmailTest')
-data.setCell(3, 2, 'com.testrunner.MailTest')
-data.setCell(3, 3, 17004);
+data.setCell(1, 3, 26916);
 window.suiteTableData['TestNG_Suite']= { tableData: data, tableDiv: 'times-div-TestNG_Suite'}
 return data;
 }
@@ -283,32 +242,16 @@ return data;
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">signOutTest</span>
-                <span class="method-start">4895 ms</span>
+                <span class="method-name">homePageTest</span>
+                <span class="method-start">5387 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <span class="method-name">SendEmailTest</span>
-                <span class="method-start">37393 ms</span>
+                <span class="method-name">searchPageTest</span>
+                <span class="method-start">43299 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">shutDown(Firefox)</span>
-                <span class="method-start">54399 ms</span>
-              </div> <!-- configuration-class after -->
-              <div class="configuration-class before">
-                <span class="method-name">beforeSetup(Chrome)</span>
-                <span class="method-start">54976 ms</span>
-              </div> <!-- configuration-class before -->
-              <div class="test-method">
-                <span class="method-name">signOutTest</span>
-                <span class="method-start">57181 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">SendEmailTest</span>
-                <span class="method-start">75628 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-class after">
-                <span class="method-name">shutDown(Chrome)</span>
-                <span class="method-start">105810 ms</span>
+                <span class="method-start">70238 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

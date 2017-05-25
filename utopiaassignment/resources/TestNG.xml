@@ -9,12 +9,12 @@
 </classes>
 </test>  
 
-<test name="TestNG Test2">
+<!-- <test name="TestNG Test2">
 <parameter name="Browser" value="Chrome"/>   
  
 <classes>
 <class name ="com.testrunner.MailTest"/>
 </classes>
-</test>  
+</test>   -->
 
 </suite>

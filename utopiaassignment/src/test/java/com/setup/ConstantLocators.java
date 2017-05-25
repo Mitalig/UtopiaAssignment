@@ -2,23 +2,21 @@ package com.setup;
 
 public class ConstantLocators {
 
-	public static final String logInOption = "//ul[@class='main-menu clearfix']//a[@data-ids='log-section']";
-	public static final String emailField = ".//input[@id='Email']";
-	public static final String nextButton = ".//input[@id='next']";
-	public static final String passwordField = ".//input[@id='Passwd']";
-	public static final String signInButton = ".//input[@id='signIn']";
-	public static final String circularButton = ".//span[@class='gb_8a gbii']";
-	public static final String signOutButton = ".//*[@id='gb_71']";
-	public static final String composeButton = ".//div[@gh='cm']";
-	public static final String recepientField = ".//textarea[contains(@aria-label, 'To')]";
-	public static final String subjectField = ".//input[@name='subjectbox']";
-	public static final String bodyField = "Am.Al.editable.LW-avf>br";
-	public static final String bodyTextBox = ".//*[@class='Am Al editable LW-avf']";
-	public static final String sendButton = ".//div[text()='Send']";
-	public static final String viewMessage = ".//span[@id='link_vsm']";
-	public static final String emailPresent = ".//h2[@class='hP']";
-	public static final String deleteEmail = "(.//div[@act='10'])[3]/div";
-	public static final String inbox =".//a[@title='Inbox']";
+	public static final String yatraOption = "(//i[@class='ico-newHeaderLogo'])[1]";
+	public static final String origin = ".//input[@id='BE_flight_origin_city']";
+	public static final String destination = ".//input[@id='BE_flight_arrival_city']";
+	public static final String departureDate = ".//input[@id='BE_flight_depart_date']";
+	public static final String departDate = ".//a[@id='a_2017_5_25']";
+	public static final String returnDate = ".//input[@id='BE_flight_return_date']";
+	public static final String searchButton = ".//input[@id='BE_flight_flsearch_btn']";
+	public static final String originOver = "//li[@class='ac_even ac_over']";
+	public static final String flightDetailsOptions = "(//a[@title='Flight Details'])[1]";
+	public static final String fareSMR = "//a[text()='Fare SUMMARY & RuleS ']";
+	public static final String baseFare = "(//span[@class='fs-lg bold'])[1]";
+	public static final String fareDetails = "//div[@class='insert-content']//span";
+	public static final String crossButton = "(//span[@class='ytfi-cancel'])[2]";
+	
+
 
 
 }

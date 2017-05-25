@@ -7,16 +7,16 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-import com.pageobjects.LoginPage;
-import com.pageobjects.MailPage;
+import com.pageobjects.HomePage;
+import com.pageobjects.SearchResultPage;
 import com.setup.GenericMethods;
 import com.setup.Log;
 import com.setup.WebSetup;
 
 public class MailTest extends WebSetup {
 
-	LoginPage lp;
-	MailPage mp;
+	HomePage lp;
+	SearchResultPage mp;
 	public static String url;
 
 	@BeforeClass
@@ -31,22 +31,19 @@ public class MailTest extends WebSetup {
 	}
 
 	@Test(priority = 1)
-	public void signOutTest() {
-		Log.info("Starting up the SignOutTest");
+	public void homePageTest() throws Exception {
 		url = GenericMethods.readProperties("url");
-		lp = new LoginPage(getDriver());
-		lp.navigateToLoginPage(url);
-
-		mp = lp.loginIntoWebSite(GenericMethods.readProperties("userName"), GenericMethods.readProperties("password"));
+		lp = new HomePage(getDriver());
+		lp.navigateToHomePage(url);
+		lp.checkWhetherOnHomepage();
+		mp=lp.searchJourney();
 	}
 
 	@Test(priority = 2)
-	public void SendEmailTest() {
+	public void searchPageTest() {
 
-		Log.info("Starting up the Send Email Test");
 
-		mp.composeButton();
-		mp.sendMail(GenericMethods.readProperties("userName"), "Hello Utopia", "Happy New Year");
+		mp.verifyFlightDetails();
 	}
 
 	@AfterClass

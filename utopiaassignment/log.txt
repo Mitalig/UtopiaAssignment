@@ -338,3 +338,50 @@
 2017-01-15 23:52:08,433 INFO  [main] setup.Log (Log.java:29) - Entering Message
 2017-01-15 23:52:08,662 INFO  [main] setup.Log (Log.java:29) - Clicking on Send Button
 2017-01-15 23:52:10,695 INFO  [main] setup.Log (Log.java:29) - Checking whether email is send
+2017-05-25 19:20:48,527 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:21:00,261 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-05-25 19:21:00,267 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 19:21:27,170 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE
+2017-05-25 19:21:27,438 INFO  [main] setup.Log (Log.java:29) - Failed to get the sheet name | Class:Excel Utils | method: getCellData null
+2017-05-25 19:21:27,438 INFO  [main] setup.Log (Log.java:29) - Failed to get the sheet name | Class:Excel Utils | method: getCellData null
+2017-05-25 19:22:54,198 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:23:00,563 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-05-25 19:23:00,586 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 19:23:41,104 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE
+2017-05-25 19:23:42,211 INFO  [main] setup.Log (Log.java:29) - Failed to return the String Cell data | Class:Excel Utils | method: getCellData null
+2017-05-25 19:23:42,212 INFO  [main] setup.Log (Log.java:29) - Failed to return the String Cell data | Class:Excel Utils | method: getCellData null
+2017-05-25 19:25:17,704 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:25:24,331 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-05-25 19:25:24,356 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 19:25:58,540 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE
+2017-05-25 19:26:34,546 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:32:55,804 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:32:59,410 INFO  [main] setup.Log (Log.java:29) - Starting up the SignOutTest
+2017-05-25 19:32:59,412 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 19:33:34,299 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE
+2017-05-25 19:33:40,244 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:47:37,110 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:47:55,727 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:48:30,305 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:48:35,136 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 19:48:53,270 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE
+2017-05-25 19:50:07,383 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:50:11,562 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 19:50:28,527 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE
+2017-05-25 19:51:13,299 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:51:17,189 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 19:51:46,698 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE
+2017-05-25 19:55:48,259 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:56:03,325 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 19:58:42,204 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 19:58:48,662 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 19:59:06,467 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE
+2017-05-25 20:00:46,768 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 20:00:51,132 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 20:01:13,899 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE
+2017-05-25 20:06:01,231 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 20:06:09,933 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 20:06:35,398 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE
+2017-05-25 20:22:49,287 INFO  [main] setup.Log (Log.java:29) - Setting up the browser
+2017-05-25 20:22:54,524 INFO  [main] setup.Log (Log.java:29) - Navigating to Url https://www.yatra.com/
+2017-05-25 20:23:22,109 INFO  [main] setup.Log (Log.java:29) - Checking whether on Home pAGE

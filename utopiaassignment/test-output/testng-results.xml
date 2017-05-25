@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="TestNG Suite" duration-ms="106053" started-at="2017-01-15T18:20:26Z" finished-at="2017-01-15T18:22:12Z">
+  <suite name="TestNG Suite" duration-ms="70617" started-at="2017-05-25T14:52:49Z" finished-at="2017-05-25T14:53:59Z">
     <groups>
     </groups>
-    <test name="TestNG Test1" duration-ms="54679" started-at="2017-01-15T18:20:26Z" finished-at="2017-01-15T18:21:20Z">
+    <test name="TestNG Test1" duration-ms="70617" started-at="2017-05-25T14:52:49Z" finished-at="2017-05-25T14:53:59Z">
       <class name="com.testrunner.MailTest">
-        <test-method status="PASS" signature="beforeSetup(java.lang.String)[pri:0, instance:com.testrunner.MailTest@47c62251]" name="beforeSetup" is-config="true" duration-ms="4883" started-at="2017-01-15T23:50:26Z" finished-at="2017-01-15T23:50:31Z">
+        <test-method status="PASS" signature="beforeSetup(java.lang.String)[pri:0, instance:com.testrunner.MailTest@5e3a8624]" name="beforeSetup" is-config="true" duration-ms="5377" started-at="2017-05-25T20:22:49Z" finished-at="2017-05-25T20:22:54Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSetup -->
-        <test-method status="PASS" signature="signOutTest()[pri:1, instance:com.testrunner.MailTest@47c62251]" name="signOutTest" duration-ms="32491" started-at="2017-01-15T23:50:31Z" finished-at="2017-01-15T23:51:03Z">
+        <test-method status="PASS" signature="homePageTest()[pri:1, instance:com.testrunner.MailTest@5e3a8624]" name="homePageTest" duration-ms="37909" started-at="2017-05-25T20:22:54Z" finished-at="2017-05-25T20:23:32Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- signOutTest -->
-        <test-method status="PASS" signature="SendEmailTest()[pri:2, instance:com.testrunner.MailTest@47c62251]" name="SendEmailTest" duration-ms="17004" started-at="2017-01-15T23:51:03Z" finished-at="2017-01-15T23:51:20Z">
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="searchPageTest()[pri:2, instance:com.testrunner.MailTest@5e3a8624]" name="searchPageTest" duration-ms="26916" started-at="2017-05-25T20:23:32Z" finished-at="2017-05-25T20:23:59Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SendEmailTest -->
-        <test-method status="PASS" signature="shutDown(java.lang.String)[pri:0, instance:com.testrunner.MailTest@47c62251]" name="shutDown" is-config="true" duration-ms="271" started-at="2017-01-15T23:51:20Z" finished-at="2017-01-15T23:51:20Z">
+        </test-method> <!-- searchPageTest -->
+        <test-method status="PASS" signature="shutDown(java.lang.String)[pri:0, instance:com.testrunner.MailTest@5e3a8624]" name="shutDown" is-config="true" duration-ms="338" started-at="2017-05-25T20:23:59Z" finished-at="2017-05-25T20:23:59Z">
           <params>
             <param index="0">
               <value>
@@ -39,39 +39,5 @@
         </test-method> <!-- shutDown -->
       </class> <!-- com.testrunner.MailTest -->
     </test> <!-- TestNG Test1 -->
-    <test name="TestNG Test2" duration-ms="51070" started-at="2017-01-15T18:21:21Z" finished-at="2017-01-15T18:22:12Z">
-      <class name="com.testrunner.MailTest">
-        <test-method status="PASS" signature="beforeSetup(java.lang.String)[pri:0, instance:com.testrunner.MailTest@1a968a59]" name="beforeSetup" is-config="true" duration-ms="2203" started-at="2017-01-15T23:51:21Z" finished-at="2017-01-15T23:51:23Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeSetup -->
-        <test-method status="PASS" signature="signOutTest()[pri:1, instance:com.testrunner.MailTest@1a968a59]" name="signOutTest" duration-ms="18429" started-at="2017-01-15T23:51:23Z" finished-at="2017-01-15T23:51:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- signOutTest -->
-        <test-method status="PASS" signature="SendEmailTest()[pri:2, instance:com.testrunner.MailTest@1a968a59]" name="SendEmailTest" duration-ms="30177" started-at="2017-01-15T23:51:41Z" finished-at="2017-01-15T23:52:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SendEmailTest -->
-        <test-method status="PASS" signature="shutDown(java.lang.String)[pri:0, instance:com.testrunner.MailTest@1a968a59]" name="shutDown" is-config="true" duration-ms="236" started-at="2017-01-15T23:52:12Z" finished-at="2017-01-15T23:52:12Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- shutDown -->
-      </class> <!-- com.testrunner.MailTest -->
-    </test> <!-- TestNG Test2 -->
   </suite> <!-- TestNG Suite -->
 </testng-results>
